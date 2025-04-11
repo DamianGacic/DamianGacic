@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Damian Gacic</h1>
+<h1 align="center">Hi there 👋, I'm Damian</h1>
 <h2 align="center">A Full Stack Developer and Data Engineer from Berlin, Germany 🇩🇪</h2>
 
 <p align="center">

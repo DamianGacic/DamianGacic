@@ -10,13 +10,13 @@
 --Check out my pinned Portfolio Repository for recently finished projects with documentation--
 
 - 🔭 I’m currently working on ...  
-  -An Nginx inspired HTTP/1.1 webserver that me and my team at 42Berlin are building from scratch in C++.
+  An Nginx inspired HTTP/1.1 webserver that me and my team at 42Berlin are building from scratch in C++.
   
 - 🌱 I’m currently learning ...  
-  -Go, cloud and microservice architecture, image-to-image model implementation
+  Go, cloud and microservice architecture, image-to-image model implementation
 
 - 👯 I’m looking to collaborate on ...  
-  -Designing data intensive applications, Lfg.
+  Designing data intensive applications, Lfg.
   
 
 ---

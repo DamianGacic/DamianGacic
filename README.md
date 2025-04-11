@@ -14,6 +14,7 @@
   
 - 🌱 I’m currently learning ...  
   Go, cloud and microservice architecture, image-to-image model implementation
+  Also looking to learn basic mobile development 📱
 
 - 👯 I’m looking to collaborate on ...  
   Designing data intensive applications, Lfg.
@@ -25,7 +26,7 @@
 
 - 💻 C Programming
 - 🏫 My experience at **42 Berlin**
-- Doing machine learning from scratch, specifically supervised learning with image-data
+- 📶🌐 Doing machine learning from scratch, specifically supervised learning with image-data
 
 ---
 

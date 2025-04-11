@@ -42,7 +42,7 @@
 ### 🧰 Languages and Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=bash,c,cpp,go,javascript,python,pytorch,opencv,git,docker,kubernetes,mysql,html,css,linux" />
+  <img src="https://skillicons.dev/icons?i=bash,c,cpp,go,javascript,python,pytorch,opencv,git,docker,kubernetes,postgresql,html,css,linux" />
 </p>
 
 ---

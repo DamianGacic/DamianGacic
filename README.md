@@ -1,10 +1,3 @@
-## Hi there 👋
-
-<!--
-**DamianGacic/DamianGacic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 <h1 align="center">Hi there 👋, I'm Damian Gacic</h1>
 <h2 align="center">A Full Stack Developer and data engineer from Berlin, Germany 🇩🇪</h2>
 

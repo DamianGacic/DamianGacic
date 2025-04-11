@@ -7,7 +7,7 @@
 
 ---
 
---Check out my pinned Portfolio Repository for recently finished projects with documentation--
+(Check out my pinned Portfolio Repository for recently finished projects with documentation)
 
 - 🔭 I’m currently working on ...  
   An Nginx inspired HTTP/1.1 webserver that me and my team at 42Berlin are building from scratch in C++.

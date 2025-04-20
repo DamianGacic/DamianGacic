@@ -36,8 +36,12 @@
 
 ### 📫 How to reach me
 
-- ✉️ Email: [damian.gacic@gmail.com](mailto:damian.gacic@gmail.com)  
+- ✉️ Email: [damian.gacic@gmail.com](mailto:damian.gacic@gmail.com)
+  
+### ☕ How to tip me
 
+- [tip me ☕](https://buy.stripe.com/00gaFxe4E9sm6S43cc)
+  
 ---
 
 ### 🧰 Languages and Tools
